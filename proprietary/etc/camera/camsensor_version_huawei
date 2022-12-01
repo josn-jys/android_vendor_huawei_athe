@@ -1,0 +1,18 @@
+/********************************************
+HUAWEI CAMERA SENSOR MODULES' VERSION
+FORMAT: 
+ project_sensor_module : ver date
+EXAMPLE:
+ RIO_imx278_sunny : v1.00 20150330
+ before TR4A:v1.XX
+ before TR5:v2.XX
+ before TR6:v3.XX
+*********************************************/
+ A_imx214_sunny : v1.02 20150612
+ A_imx214_liteon : v1.02 2015612
+
+ RIO_imx278_sunny : v3.02 20151201
+ RIO_imx278_liteon : v3.02 20151201
+ RIO_imx278_lg : v3.02 20151201
+ RIO_ov5648_foxconn : v2.02 20150701
+ RIO_s5k4e1_sunny : v2.02 20150701
